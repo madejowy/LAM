@@ -1,0 +1,16 @@
+C:\Users\CP24\source\repos\LAM\LAM\obj\Debug\LAM.csprojAssemblyReference.cache
+C:\Users\CP24\source\repos\LAM\LAM\obj\Debug\LAM.GameControl.resources
+C:\Users\CP24\source\repos\LAM\LAM\obj\Debug\LAM.Properties.Resources.resources
+C:\Users\CP24\source\repos\LAM\LAM\obj\Debug\LAM.csproj.GenerateResource.cache
+C:\Users\CP24\source\repos\LAM\LAM\bin\Debug\LAM.exe.config
+C:\Users\CP24\source\repos\LAM\LAM\bin\Debug\LAM.exe
+C:\Users\CP24\source\repos\LAM\LAM\bin\Debug\LAM.pdb
+C:\Users\CP24\source\repos\LAM\LAM\bin\Debug\EntityFramework.dll
+C:\Users\CP24\source\repos\LAM\LAM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CP24\source\repos\LAM\LAM\bin\Debug\EntityFramework.xml
+C:\Users\CP24\source\repos\LAM\LAM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CP24\source\repos\LAM\LAM\obj\Debug\LAM.csproj.CopyComplete
+C:\Users\CP24\source\repos\LAM\LAM\obj\Debug\LAM.exe
+C:\Users\CP24\source\repos\LAM\LAM\obj\Debug\LAM.pdb
+C:\Users\CP24\source\repos\LAM\LAM\obj\Debug\LAM.Lam.resources
+C:\Users\CP24\source\repos\LAM\LAM\obj\Debug\LAM.AboutControl.resources
